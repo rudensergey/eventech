@@ -1,0 +1,19 @@
+{
+  "name": "eventech",
+  "version": "1.0.0",
+  "description": "A public website about a tech eventss",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudensergey/eventech.git"
+  },
+  "author": "Rudensergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudensergey/eventech/issues"
+  },
+  "homepage": "https://github.com/rudensergey/eventech#readme"
+}
